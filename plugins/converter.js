@@ -4,5 +4,5 @@ console all primarty codes
  )
    ;ANTICLONE-NATURE5
 
-HOST NAME
+HOST NAME kathara
    :SITE SIX
