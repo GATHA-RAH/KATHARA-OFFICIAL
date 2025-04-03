@@ -4,18 +4,18 @@
 
 
 {
-  "name": "popkid",
+  "name": "kathara",
   "version": "10.8.1",
-  "description": "ok popkid made it",
+  "description": "ok kathara made it",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Demon-Slayer",
-    "stop": "pm2 stop popkid",
-    "restart": "pm2 restart popkid"
+    "stop": "pm2 stop kathara",
+    "restart": "pm2 restart kathara"
   },
-  "keywords": ["popkid", "whatsapp-bot", "whatsapp md bot"],
-  "author": "popkid",
+  "keywords": ["kathara", "whatsapp-bot", "whatsapp md bot"],
+  "author": "kathara",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
