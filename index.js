@@ -97,7 +97,7 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Popkid Xtech Connected"));
+                    console.log(chalk.green("kathara Connected"));
             Matrix.sendMessage(Matrix.user.id, { 
                 image: { url: "https://files.catbox.moe/w5xf3f.jpg" }, 
                 caption: `╭─────────────━┈⊷
@@ -178,5 +178,5 @@ app.listen(PORT, () => {
 });
 
 
-// updated by popkid
+// updated by kathara
 
