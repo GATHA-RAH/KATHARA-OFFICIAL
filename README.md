@@ -2,8 +2,7 @@
  <h1 align="center"> ★POPKID <br></h1>
  <p align="center"> gathara <br><h1>
  <p align="center"> gathara <br><h1>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=KATHARA-Md+made+by+gathara+._" alt="Typing SVG" /></a>
-# 🤍 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=602&pause=1000&color=F70000&random=false&width=435&lines=KATHARA-Md+made+by+gathara+._" alt="Typing SVG" 
 </a></p>
 - <a href="https://popkid.vercel.app/"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/LOG IN FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
 
